@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iceberghbs
-- 👀 I’m interested in FPGA/CPLD
-- 🌱 I’m currently learning VHDL and Verilog
+- 👀 I’m interested in C++, FPGA/CPLD(VHDL and Verilog)
 - 💞️ I’m looking to collaborate on both.
 - 📫 reach me: iceberg.hbs@qq.com
 
