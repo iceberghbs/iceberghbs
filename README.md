@@ -11,7 +11,7 @@
 * |____/|_|_| |_|___/_| |_|\__,_|_| |_|
 *
 © 2026 | iceberg.hbs@qq.com
-No AIs were harmed in the making of this doc. 
+No AIs were harmed in the making of these repos. 
 Copying is forbidden. Reading is encouraged. Understanding is optional.
 ```
 
