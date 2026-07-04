@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bryan
-- 👀 I’m interested in ISP(Image Signal Processing), Computational Photography, and Linux.
-- 💞️ Welcome to collaborate on all the presented repos.
-- 📫 reach me: iceberg.hbs@qq.com
+- 👋 Hi, it's **Bennett**
+- I specialize in real-time image processing — from computational photography algorithm design to hardware-accelerated deployment on-device.
+- Always happy to connect with people working on embedded vision, ISP, or edge AI. Feel free to reach out.
+- 📫 **Contact:** iceberg.hbs@qq.com
 
 ```text
 *  ____  _           _
